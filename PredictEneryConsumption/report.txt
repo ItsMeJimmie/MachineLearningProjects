@@ -1,0 +1,14 @@
+GENERAL DESCRIPTION:
+
+This project comes from Kaggle in the dataset called Electric Power Consumption.
+It's primary goal is to use the dataset to produce a Linear Regression model that will be able to
+predict with fairly accurate precision energy consumption in the future.
+
+Features:
+
+1.) Date Time: Time window of ten minutes
+2.) Temperature: Weather Temperature.
+3.) Humidity: Weather Humidity.
+4.) Wind Speed: Wind Speed.
+5.) General Diffuse Flows: “Diffuse flow” is a catchall term to describe low-temperature (< 0.2° to ~ 100°C) fluids that slowly discharge through sulfide mounds, fractured lava flows, and assemblages of bacterial mats and macrofauna.
+6.) Diffuse Flows
