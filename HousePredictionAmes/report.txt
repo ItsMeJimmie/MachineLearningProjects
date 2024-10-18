@@ -1,0 +1,15 @@
+HOUSE PREDICTION AMES HOUSING DATASET
+    - Idea comes from machinelearningmastery.com
+
+Goal: Build a Regression Model to predict house prices based on various input features
+
+Dataset: Ames Housing Dataset
+
+Areas of Focus: Linear Regression, Feature Engineering and Selection, Evaluating Regression Models
+
+Focus On:
+    - Thorough EDA to understand the data
+    - Imputing Missing Values
+    - Handling Categorical Features and Scaling Numeric Features as Needed
+    - Feature Engineering on Numerical Columns
+    - Evaluating Model Using Regression Metrics
